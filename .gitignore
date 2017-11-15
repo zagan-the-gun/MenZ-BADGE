@@ -1,0 +1,11 @@
+*.GBS
+*.GBL
+*.GTL
+*.GBO
+*.GML
+*.GTS
+*.GTO
+Bugdroid/Bugdroid_5mm_LED/desktop.ini
+Bugdroid/Bugdroid_5mm_LED/pcbname.TXT
+*.did
+*.zip
